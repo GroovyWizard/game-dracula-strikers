@@ -1,0 +1,6780 @@
+fileFormatVersion: 2
+guid: 5388f360399c24aeabb03ee045f6a9b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3978338337762068776
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_0
+  - first:
+      213: 3016033454429770555
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_1
+  - first:
+      213: 6783226361363720077
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_2
+  - first:
+      213: -5917631708595597602
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_3
+  - first:
+      213: 1215956915552584288
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_4
+  - first:
+      213: 769302665950715683
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_5
+  - first:
+      213: -8937476777304380135
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_6
+  - first:
+      213: 633823371371176453
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_7
+  - first:
+      213: -1236174099558372771
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_8
+  - first:
+      213: -5921007850076836572
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_9
+  - first:
+      213: 6392059511409536555
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_10
+  - first:
+      213: 1982138039336943462
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_11
+  - first:
+      213: -4041955310808146591
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_12
+  - first:
+      213: 8030774466642071391
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_13
+  - first:
+      213: -570790164926251655
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_14
+  - first:
+      213: -2107773199013312931
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_15
+  - first:
+      213: 5584563004993569304
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_16
+  - first:
+      213: 187247048289039094
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_17
+  - first:
+      213: 8158169160888654406
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_18
+  - first:
+      213: 5467080362078022573
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_19
+  - first:
+      213: 6928557590491742128
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_20
+  - first:
+      213: 4264431360904485920
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_21
+  - first:
+      213: -4656051332258160807
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_22
+  - first:
+      213: 3518149722711315860
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_23
+  - first:
+      213: -4748449576174098686
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_24
+  - first:
+      213: -5726487049418450395
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_25
+  - first:
+      213: -3149255752715305261
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_26
+  - first:
+      213: -8169199024098890600
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_27
+  - first:
+      213: -1924104550292297036
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_28
+  - first:
+      213: -7250143275018089728
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_29
+  - first:
+      213: 2547278366319470575
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_30
+  - first:
+      213: 7370800261372805807
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_31
+  - first:
+      213: -3203538953269578718
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_32
+  - first:
+      213: 5425161344565089463
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_33
+  - first:
+      213: -1449545919382389411
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_34
+  - first:
+      213: 5023757373797672547
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_35
+  - first:
+      213: 1762598445913158216
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_36
+  - first:
+      213: -2097417630274039155
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_37
+  - first:
+      213: -7717492455544071219
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_38
+  - first:
+      213: 1996920032669722640
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_39
+  - first:
+      213: -5208514538724544889
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_40
+  - first:
+      213: -4849497354625389419
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_41
+  - first:
+      213: -9121717390551636748
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_42
+  - first:
+      213: 1979697468239823565
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_43
+  - first:
+      213: -5497773752391934192
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_44
+  - first:
+      213: -830349837958242160
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_45
+  - first:
+      213: 307564011030676172
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_46
+  - first:
+      213: 325582951436320485
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_47
+  - first:
+      213: 5415663306129253950
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_48
+  - first:
+      213: -3022409439495370792
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_49
+  - first:
+      213: 6134093772763048819
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_50
+  - first:
+      213: 4353175396392625120
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_51
+  - first:
+      213: 2977665583080593033
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_52
+  - first:
+      213: 6419840003887490479
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_53
+  - first:
+      213: 2302669684372655634
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_54
+  - first:
+      213: 4038438168262989936
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_55
+  - first:
+      213: 5496268154584953182
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_56
+  - first:
+      213: 2971160406450099332
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_57
+  - first:
+      213: 5673955216867682608
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_58
+  - first:
+      213: -5064629453689724720
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_59
+  - first:
+      213: 2457054972943312246
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_60
+  - first:
+      213: -6887865418414728702
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_61
+  - first:
+      213: 7276395088725862587
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_62
+  - first:
+      213: -5224832965288715797
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_63
+  - first:
+      213: 5656318126994592709
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_64
+  - first:
+      213: -3011156825193520991
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_65
+  - first:
+      213: 3127715728384677999
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_66
+  - first:
+      213: -4443479836328193755
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_67
+  - first:
+      213: -7961639801471375747
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_68
+  - first:
+      213: 3743345426889510656
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_69
+  - first:
+      213: 4288914611200171777
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_70
+  - first:
+      213: 4546868201545960090
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_71
+  - first:
+      213: -5497905432242998222
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_72
+  - first:
+      213: 4976703917538586601
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_73
+  - first:
+      213: 3055358266016058761
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_74
+  - first:
+      213: -2609803717523510218
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_75
+  - first:
+      213: 8484407583501117054
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_76
+  - first:
+      213: -7151136142059255238
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_77
+  - first:
+      213: 3257249932824788991
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_78
+  - first:
+      213: -2311798687925872880
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_79
+  - first:
+      213: 4681452509755834833
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_80
+  - first:
+      213: 3787417308683992261
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_81
+  - first:
+      213: 7268464344610711058
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_82
+  - first:
+      213: 7640743903134458876
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_83
+  - first:
+      213: 5398264132832593048
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_84
+  - first:
+      213: 956853262282993740
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_85
+  - first:
+      213: -223698973136563007
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_86
+  - first:
+      213: 7528492244592644096
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_87
+  - first:
+      213: 2082194692064480066
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_88
+  - first:
+      213: -5718177564466434252
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_89
+  - first:
+      213: -7501108225712147544
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_90
+  - first:
+      213: -4744253182252680990
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_91
+  - first:
+      213: -4565024362894151283
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_92
+  - first:
+      213: 4524556029940259580
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_93
+  - first:
+      213: -7080443104082725443
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_94
+  - first:
+      213: 7671140288386753239
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_95
+  - first:
+      213: 715064116754538980
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_96
+  - first:
+      213: 6740671200906427000
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_97
+  - first:
+      213: 5885492782114381383
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_98
+  - first:
+      213: -3995989020598195844
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_99
+  - first:
+      213: 5756011363712147429
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_100
+  - first:
+      213: -7154686636582928844
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_101
+  - first:
+      213: -4708593736869859054
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_102
+  - first:
+      213: -7910917910613192100
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_103
+  - first:
+      213: -6500588474962858843
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_104
+  - first:
+      213: 6635683697671584049
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_105
+  - first:
+      213: -87730227560734187
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_106
+  - first:
+      213: 3786105279694688222
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_107
+  - first:
+      213: 5151403358995238197
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_108
+  - first:
+      213: -3296203243252218963
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_109
+  - first:
+      213: -1454067090225487498
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_110
+  - first:
+      213: -91174320394755631
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_111
+  - first:
+      213: 4911808040515539712
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_112
+  - first:
+      213: 4510747773495254051
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_113
+  - first:
+      213: 6503450214622225089
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_114
+  - first:
+      213: 8706293412586641124
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_115
+  - first:
+      213: -5504695492917492201
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_116
+  - first:
+      213: -326376738772563303
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_117
+  - first:
+      213: 5972582929504576107
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_118
+  - first:
+      213: 3562638638052007231
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_119
+  - first:
+      213: 4386573218398801351
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_120
+  - first:
+      213: 4420387107457850105
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_121
+  - first:
+      213: 5059770501868602230
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_122
+  - first:
+      213: 1806534690167417435
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_123
+  - first:
+      213: -5435591443410999946
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_124
+  - first:
+      213: 5544647817925212309
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_125
+  - first:
+      213: 1557959558886432441
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_126
+  - first:
+      213: -1929973900341911269
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_127
+  - first:
+      213: -3704618133582449791
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_128
+  - first:
+      213: 6557327570429874856
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_129
+  - first:
+      213: -2540709878630847302
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_130
+  - first:
+      213: 4476768948293442567
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_131
+  - first:
+      213: 5383785826462920642
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_132
+  - first:
+      213: -3730144921302665299
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_133
+  - first:
+      213: -5493402749231851711
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_134
+  - first:
+      213: 7579640232616662607
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_135
+  - first:
+      213: -2707185311441005170
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_136
+  - first:
+      213: 5550465060406189483
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_137
+  - first:
+      213: 9021806604671594888
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_138
+  - first:
+      213: -4433467489098409197
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_139
+  - first:
+      213: -5499215373916279715
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_140
+  - first:
+      213: -204875597203912433
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_141
+  - first:
+      213: 157725875110203649
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_142
+  - first:
+      213: -2813041785004525466
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_143
+  - first:
+      213: -4355050610581110547
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_144
+  - first:
+      213: 999091304301876707
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_145
+  - first:
+      213: 138329415012059183
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_146
+  - first:
+      213: 8764736263233687085
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_147
+  - first:
+      213: -1292753662810967422
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_148
+  - first:
+      213: -8757034732537259239
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_149
+  - first:
+      213: 8326382251221513669
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_150
+  - first:
+      213: -378649841353183021
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_151
+  - first:
+      213: 485227401505390100
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_152
+  - first:
+      213: -2377812188424660265
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_153
+  - first:
+      213: -4015753749680919179
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_154
+  - first:
+      213: 5390107296372969771
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_155
+  - first:
+      213: -1581287211663696019
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_156
+  - first:
+      213: -3941353967924908982
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_157
+  - first:
+      213: -6801675600000117710
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_158
+  - first:
+      213: 4591389393090324683
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_159
+  - first:
+      213: -4146580708693886798
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_160
+  - first:
+      213: 8884285023448773288
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_161
+  - first:
+      213: -4649375403924224638
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_162
+  - first:
+      213: -5732941899986416987
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_163
+  - first:
+      213: 6832588441308600544
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_164
+  - first:
+      213: 3262120880435432001
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_165
+  - first:
+      213: 3867861522810042687
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_166
+  - first:
+      213: 9103672806056929000
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_167
+  - first:
+      213: 3506971239446803302
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_168
+  - first:
+      213: 2394162864073586441
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_169
+  - first:
+      213: 3912452045150128061
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_170
+  - first:
+      213: 4611813995438343327
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_171
+  - first:
+      213: -3600720418811983419
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_172
+  - first:
+      213: -602697248406997910
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_173
+  - first:
+      213: -3585725000193418210
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_174
+  - first:
+      213: -8653514201629747117
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_175
+  - first:
+      213: -6139357335142809109
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_176
+  - first:
+      213: 7766282624109452475
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_177
+  - first:
+      213: 4615335429200625109
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_178
+  - first:
+      213: 5202752871047624778
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_179
+  - first:
+      213: -7856064150041460972
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_180
+  - first:
+      213: -6738499180002074576
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_181
+  - first:
+      213: 6297853409415307015
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_182
+  - first:
+      213: 8023267511289849915
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_183
+  - first:
+      213: 4901684482116685838
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_184
+  - first:
+      213: -4315097702352327679
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_185
+  - first:
+      213: 2779995505995670571
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_186
+  - first:
+      213: -3814148797989403860
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_187
+  - first:
+      213: -9052887571493132684
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_188
+  - first:
+      213: -4897489648896283276
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_189
+  - first:
+      213: -1815847383046851074
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_190
+  - first:
+      213: -2981324273681986265
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_191
+  - first:
+      213: -844962941342280603
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_192
+  - first:
+      213: -6657218989175997643
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_193
+  - first:
+      213: 5794387660924218275
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_194
+  - first:
+      213: 8662779928401320894
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_195
+  - first:
+      213: -4486250159192553030
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_196
+  - first:
+      213: 1186183818921385269
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_197
+  - first:
+      213: -8439500518545417996
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_198
+  - first:
+      213: 7107595760395691501
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_199
+  - first:
+      213: -4098676682640432092
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_200
+  - first:
+      213: 99241069557325392
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_201
+  - first:
+      213: -5070587508649220274
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_202
+  - first:
+      213: -7549418480398651339
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_203
+  - first:
+      213: 7679830607205414844
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_204
+  - first:
+      213: 2040519168917573166
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_205
+  - first:
+      213: 1705744530460168267
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_206
+  - first:
+      213: -4779226442138341546
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_207
+  - first:
+      213: 4640665924928417374
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_208
+  - first:
+      213: 1831330901322544717
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_209
+  - first:
+      213: -4589215083017395936
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_210
+  - first:
+      213: 1924755127017842194
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_211
+  - first:
+      213: -3598929112933603845
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_212
+  - first:
+      213: 8028767909573065551
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_213
+  - first:
+      213: -3550633639923866796
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_214
+  - first:
+      213: -5176447610901331810
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_215
+  - first:
+      213: -6810482387155994363
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_216
+  - first:
+      213: -6002279041644209917
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_217
+  - first:
+      213: 3156074872844853976
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_218
+  - first:
+      213: 6917419643356334420
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_219
+  - first:
+      213: -3910994032865246395
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_220
+  - first:
+      213: 7887310567783029170
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_221
+  - first:
+      213: 8774037484631572591
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_222
+  - first:
+      213: -1742249635901640856
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_223
+  - first:
+      213: 4073776384153095742
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_224
+  - first:
+      213: -2581228841420471354
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_225
+  - first:
+      213: -7454048127686061415
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_226
+  - first:
+      213: -1601497693785094663
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_227
+  - first:
+      213: 5654157174592415693
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_228
+  - first:
+      213: 8002196562333056979
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_229
+  - first:
+      213: -3064756423387879381
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_230
+  - first:
+      213: -2149906619922088621
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_231
+  - first:
+      213: -6442082326088772493
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_232
+  - first:
+      213: 2679020803861645848
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_233
+  - first:
+      213: 7755052486328226750
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_234
+  - first:
+      213: 4384075805117442487
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_235
+  - first:
+      213: -220277759156323890
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_236
+  - first:
+      213: -1268942345231707309
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_237
+  - first:
+      213: -344584661240977984
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_238
+  - first:
+      213: 2734443125467035835
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_239
+  - first:
+      213: 5904098358559324468
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_240
+  - first:
+      213: 2542848584517265628
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_241
+  - first:
+      213: 7294891058092860344
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_242
+  - first:
+      213: 8354047853261786986
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_243
+  - first:
+      213: 8142883886554506837
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_244
+  - first:
+      213: 1873342540778572406
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_245
+  - first:
+      213: -3599912765409069875
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_246
+  - first:
+      213: -5012640094114338102
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_247
+  - first:
+      213: 2412380701163305388
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_248
+  - first:
+      213: 1330085243710124364
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_249
+  - first:
+      213: 3629737390215107027
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_250
+  - first:
+      213: 8046670350254315903
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_251
+  - first:
+      213: 5393557220513293168
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_252
+  - first:
+      213: 7335633492517377906
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_253
+  - first:
+      213: -53097370043707663
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_254
+  - first:
+      213: -1418447450765883114
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_255
+  - first:
+      213: -4918597899146273387
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_256
+  - first:
+      213: 7824300213487628388
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_257
+  - first:
+      213: 4482195435792261132
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_258
+  - first:
+      213: 8423650604473937751
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_259
+  - first:
+      213: 7140650894334412745
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_260
+  - first:
+      213: -1585930422770513549
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_261
+  - first:
+      213: 3913265183200465692
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_262
+  - first:
+      213: 8232874384670186443
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_263
+  - first:
+      213: 2191061229274319318
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_264
+  - first:
+      213: 3581700798299578990
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_265
+  - first:
+      213: 1675839063486556138
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_266
+  - first:
+      213: 8563306015169277905
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_267
+  - first:
+      213: 6435671964624850228
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_268
+  - first:
+      213: -4250815544015811356
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_269
+  - first:
+      213: 679378195113156284
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_270
+  - first:
+      213: 5906540922219843075
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_271
+  - first:
+      213: 953493870188504640
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_272
+  - first:
+      213: -6551833785377737840
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_273
+  - first:
+      213: 412460983788485286
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_274
+  - first:
+      213: 3576256993494979010
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_275
+  - first:
+      213: -7887448311232866030
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_276
+  - first:
+      213: -3195841886194096197
+    second: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_277
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 571
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6bf552c5a1ac8c0800000000000000
+      internalID: -3978338337762068776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 572
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b331bf9727a1bd920800000000000000
+      internalID: 3016033454429770555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 572
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d876624cf6cd22e50800000000000000
+      internalID: 6783226361363720077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 572
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede4291605950eda0800000000000000
+      internalID: -5917631708595597602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 572
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06201bd4f52ffd010800000000000000
+      internalID: 1215956915552584288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 572
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fd0c0e2bc1daa00800000000000000
+      internalID: 769302665950715683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 571
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d287c4934b7f380800000000000000
+      internalID: -8937476777304380135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 572
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5026be48ffacbc800800000000000000
+      internalID: 633823371371176453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 572
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae84bb43a38dee0800000000000000
+      internalID: -1236174099558372771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 571
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42deedf2bba54dda0800000000000000
+      internalID: -5921007850076836572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 572
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ee8b0524825b850800000000000000
+      internalID: 6392059511409536555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 571
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fb7728b08f18b10800000000000000
+      internalID: 1982138039336943462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 571
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dd64d5f0718e7c0800000000000000
+      internalID: -4041955310808146591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 572
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f4a7b14da037f60800000000000000
+      internalID: 8030774466642071391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 571
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97db8428e552418f0800000000000000
+      internalID: -570790164926251655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 571
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5609b5617fafb2e0800000000000000
+      internalID: -2107773199013312931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 571
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8120e6af67a508d40800000000000000
+      internalID: 5584563004993569304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 571
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f23286c23c399200800000000000000
+      internalID: 187247048289039094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 571
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a9054c0a3a73170800000000000000
+      internalID: 8158169160888654406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 566
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabac2c9f98fedb40800000000000000
+      internalID: 5467080362078022573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 538
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfb8136b6e272060800000000000000
+      internalID: 6928557590491742128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 538
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c5fb39abd4e2b30800000000000000
+      internalID: 4264431360904485920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 538
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f94cc6bf1626fb0800000000000000
+      internalID: -4656051332258160807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 538
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495d8d8688af2d030800000000000000
+      internalID: 3518149722711315860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 538
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207e942d44e1a1eb0800000000000000
+      internalID: -4748449576174098686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 538
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ad9886e5e6780b0800000000000000
+      internalID: -5726487049418450395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 538
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de7c8014989b44d0800000000000000
+      internalID: -3149255752715305261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 538
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c2e1515cc21ae80800000000000000
+      internalID: -8169199024098890600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 537
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba6d191b153c45e0800000000000000
+      internalID: -1924104550292297036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 537
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b0cd1ba11526b90800000000000000
+      internalID: -7250143275018089728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 537
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe762889d20c95320800000000000000
+      internalID: 2547278366319470575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 537
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa28b7919c75a4660800000000000000
+      internalID: 7370800261372805807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 537
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2247d3a8b4eba83d0800000000000000
+      internalID: -3203538953269578718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 537
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b49bf7cf7b0a4b40800000000000000
+      internalID: 5425161344565089463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 537
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d78959aad22ebe0800000000000000
+      internalID: -1449545919382389411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 511
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a5f6e6b8f7b540800000000000000
+      internalID: 5023757373797672547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 511
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423f4aa2f1067810800000000000000
+      internalID: 1762598445913158216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 511
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82dfd127c974e2e0800000000000000
+      internalID: -2097417630274039155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 511
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbd98e2085f5e490800000000000000
+      internalID: -7717492455544071219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 511
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018e328803c76bb10800000000000000
+      internalID: 1996920032669722640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 511
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eadd77f93a7b7b0800000000000000
+      internalID: -5208514538724544889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 511
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c6b5689df13bcb0800000000000000
+      internalID: -4849497354625389419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 511
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4aaaabc56296180800000000000000
+      internalID: -9121717390551636748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 511
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2cc25cb5c497b10800000000000000
+      internalID: 1979697468239823565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 511
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f563196ebf3b3b0800000000000000
+      internalID: -5497773752391934192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 511
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0902235c8310a74f0800000000000000
+      internalID: -830349837958242160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 511
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc28d27a6dfa44400800000000000000
+      internalID: 307564011030676172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 511
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eef84528f3b48400800000000000000
+      internalID: 325582951436320485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 511
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36a3f0651d482b40800000000000000
+      internalID: 5415663306129253950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 511
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d74711d0ae3e06d0800000000000000
+      internalID: -3022409439495370792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 510
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b2a7859cda02550800000000000000
+      internalID: 6134093772763048819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 503
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3e3fa75f5996c30800000000000000
+      internalID: 4353175396392625120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 479
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986dc6b421bc25920800000000000000
+      internalID: 2977665583080593033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 479
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa56e82487ad71950800000000000000
+      internalID: 6419840003887490479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 479
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ec71cb0e9b4ff10800000000000000
+      internalID: 2302669684372655634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 479
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078d1b21e1a6b0830800000000000000
+      internalID: 4038438168262989936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 479
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51f35024caa64c40800000000000000
+      internalID: 5496268154584953182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 479
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d925d5aeab3920800000000000000
+      internalID: 2971160406450099332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 478
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0396fd43530fdbe40800000000000000
+      internalID: 5673955216867682608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 478
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e7dd6852d6b9b0800000000000000
+      internalID: -5064629453689724720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 478
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675a4e7da76391220800000000000000
+      internalID: 2457054972943312246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 478
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a51ba35e26960a0800000000000000
+      internalID: -6887865418414728702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 470
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8e6ecf7c2faf460800000000000000
+      internalID: 7276395088725862587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 471
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91735b91aad77b0800000000000000
+      internalID: -5224832965288715797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 449
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c39d183e574f7e40800000000000000
+      internalID: 5656318126994592709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 449
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0e85f32d83636d0800000000000000
+      internalID: -3011156825193520991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 449
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6855c432e0e76b20800000000000000
+      internalID: 3127715728384677999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 449
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5211c05a1a69552c0800000000000000
+      internalID: -4443479836328193755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76efab78c2928190800000000000000
+      internalID: -7961639801471375747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 449
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f055925d803f330800000000000000
+      internalID: 3743345426889510656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 449
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f91908d19458b30800000000000000
+      internalID: 4288914611200171777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 449
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a8aa9f988b91f30800000000000000
+      internalID: 4546868201545960090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 449
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2343776732483b3b0800000000000000
+      internalID: -5497905432242998222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 449
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efae2568ddc01540800000000000000
+      internalID: 4976703917538586601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 449
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dc07ba720d66a20800000000000000
+      internalID: 3055358266016058761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 449
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c6483a85d18cbd0800000000000000
+      internalID: -2609803717523510218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 448
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76e630bebbaeb570800000000000000
+      internalID: 8484407583501117054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 449
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ac910319f02cc90800000000000000
+      internalID: -7151136142059255238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 449
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffbfa66e83143d20800000000000000
+      internalID: 3257249932824788991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 449
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017d6fd7757daefd0800000000000000
+      internalID: -2311798687925872880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 448
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d18bd4114cd7f040800000000000000
+      internalID: 4681452509755834833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 442
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7644c9fb9f8430800000000000000
+      internalID: 3787417308683992261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 411
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2162d1bbfc5ced460800000000000000
+      internalID: 7268464344610711058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 412
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3af06f810690a60800000000000000
+      internalID: 7640743903134458876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 412
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8940839a0ac7aea40800000000000000
+      internalID: 5398264132832593048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 412
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c403d80f8fc674d00800000000000000
+      internalID: 956853262282993740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 411
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4539918f245ecf0800000000000000
+      internalID: -223698973136563007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 412
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0005a3d0fc39a7860800000000000000
+      internalID: 7528492244592644096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 412
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b05bd5a0175ec10800000000000000
+      internalID: 2082194692064480066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 412
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fae532dc3f4a0b0800000000000000
+      internalID: -5718177564466434252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 412
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3baa0bfc5b6e790800000000000000
+      internalID: -7501108225712147544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 412
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8ff4bedd6092eb0800000000000000
+      internalID: -4744253182252680990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 412
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81b0ba4786c5a0c0800000000000000
+      internalID: -4565024362894151283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 412
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfad0f2bcb37ace30800000000000000
+      internalID: 4524556029940259580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 412
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5f8c8b2863dbd90800000000000000
+      internalID: -7080443104082725443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 405
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2ea77e27d557a60800000000000000
+      internalID: 7671140288386753239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 405
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e168ce860b6ce900800000000000000
+      internalID: 715064116754538980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87abbbd5ebcab8d50800000000000000
+      internalID: 6740671200906427000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 359
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e9d0ea0887da150800000000000000
+      internalID: 5885492782114381383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 359
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7922ec48256b88c0800000000000000
+      internalID: -3995989020598195844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 359
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef9c21b6d571ef40800000000000000
+      internalID: 5756011363712147429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 359
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e7d33496275bc90800000000000000
+      internalID: -7154686636582928844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 359
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2113e3a81f6b7aeb0800000000000000
+      internalID: -4708593736869859054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 359
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5210aaf216c63290800000000000000
+      internalID: -7910917910613192100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 359
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac27de393549c5a0800000000000000
+      internalID: -6500588474962858843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 359
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139b0996a2fa61c50800000000000000
+      internalID: 6635683697671584049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 359
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512ad26a2d158cef0800000000000000
+      internalID: -87730227560734187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 359
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfce6631b2fa8430800000000000000
+      internalID: 3786105279694688222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 359
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d4aabcf067d7740800000000000000
+      internalID: 5151403358995238197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 359
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da306724d988142d0800000000000000
+      internalID: -3296203243252218963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 359
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67126877fad12dbe0800000000000000
+      internalID: -1454067090225487498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 359
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ab3c40751cbef0800000000000000
+      internalID: -91174320394755631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 359
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00316d3936f3a2440800000000000000
+      internalID: 4911808040515539712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 359
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c91967335699e30800000000000000
+      internalID: 4510747773495254051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 359
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2eef07385e04a50800000000000000
+      internalID: 6503450214622225089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 363
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6dc871bb7f2d870800000000000000
+      internalID: 8706293412586641124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 360
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71685f34d946b93b0800000000000000
+      internalID: -5504695492917492201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 364
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ac286d51a787bf0800000000000000
+      internalID: -326376738772563303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 352
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62aea0c780e2e250800000000000000
+      internalID: 5972582929504576107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 353
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ddb2437f8017130800000000000000
+      internalID: 3562638638052007231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 352
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd07efd91d30ec30800000000000000
+      internalID: 4386573218398801351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 352
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faddbd67ae585d30800000000000000
+      internalID: 4420387107457850105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 352
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673c0e0b67ae73640800000000000000
+      internalID: 5059770501868602230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a69d1bab9121910800000000000000
+      internalID: 1806534690167417435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 322
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675a5579166e094b0800000000000000
+      internalID: -5435591443410999946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 322
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598b31840db82fc40800000000000000
+      internalID: 5544647817925212309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 322
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be99d1e6fbfe9510800000000000000
+      internalID: 1557959558886432441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 322
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11685c86fa5735e0800000000000000
+      internalID: -1929973900341911269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 322
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183f8577f6d869cc0800000000000000
+      internalID: -3704618133582449791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 322
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2195fdeae400b50800000000000000
+      internalID: 6557327570429874856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 322
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abce1ee93d59dbcd0800000000000000
+      internalID: -2540709878630847302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 322
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c9788b3ada02e30800000000000000
+      internalID: 4476768948293442567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 322
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfea154fac07ba40800000000000000
+      internalID: 5383785826462920642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 322
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7f60d05fcdb3cc0800000000000000
+      internalID: -3730144921302665299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 322
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14791eb0e4383c3b0800000000000000
+      internalID: -5493402749231851711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 322
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46106602aa403960800000000000000
+      internalID: 7579640232616662607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 322
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8557627d452e6ad0800000000000000
+      internalID: -2707185311441005170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 314
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad5ab79096370d40800000000000000
+      internalID: 5550465060406189483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 284
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88139bfae45e33d70800000000000000
+      internalID: 9021806604671594888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 284
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bdb05eec82972c0800000000000000
+      internalID: -4433467489098409197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 283
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c6a56e0ccdea3b0800000000000000
+      internalID: -5499215373916279715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 284
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09c385dab2282df0800000000000000
+      internalID: -204875597203912433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 284
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101d4d509da503200800000000000000
+      internalID: 157725875110203649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_143
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 284
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6687972966116f8d0800000000000000
+      internalID: -2813041785004525466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_144
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 284
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de007713b80cf83c0800000000000000
+      internalID: -4355050610581110547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_145
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 284
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e558137f3c7ddd00800000000000000
+      internalID: 999091304301876707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_146
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 284
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2808cbbed17be100800000000000000
+      internalID: 138329415012059183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_147
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 284
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e4700a13992a970800000000000000
+      internalID: 8764736263233687085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_148
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 284
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282311a94673f0ee0800000000000000
+      internalID: -1292753662810967422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_149
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 291
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bdb59be43c87680800000000000000
+      internalID: -8757034732537259239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_150
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 291
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5fc2cda804d8370800000000000000
+      internalID: 8326382251221513669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_151
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 291
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0b2e7b9f3cebaf0800000000000000
+      internalID: -378649841353183021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_152
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 291
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eb30630cfdbb600800000000000000
+      internalID: 485227401505390100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_153
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 264
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da9a5ea960500fd0800000000000000
+      internalID: -2377812188424660265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_154
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 265
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d63d4bd3d2548c0800000000000000
+      internalID: -4015753749680919179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_155
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 265
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b215d8d27028dca40800000000000000
+      internalID: 5390107296372969771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_156
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 265
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fdae4b8a32e0ae0800000000000000
+      internalID: -1581287211663696019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_157
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 265
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c62c7c27f7d49c0800000000000000
+      internalID: -3941353967924908982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_158
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 265
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2341d8024189b91a0800000000000000
+      internalID: -6801675600000117710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_159
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 265
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc825a8a354e7bf30800000000000000
+      internalID: 4591389393090324683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_160
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 265
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b830d1a0d26476c0800000000000000
+      internalID: -4146580708693886798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_161
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 265
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2bcf968225b4b70800000000000000
+      internalID: 8884285023448773288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 265
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28588ad14b91a7fb0800000000000000
+      internalID: -4649375403924224638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_163
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 264
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa4b5567bf7070b0800000000000000
+      internalID: -5732941899986416987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_164
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 264
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e893ac9cfa32de50800000000000000
+      internalID: 6832588441308600544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_165
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 260
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a0db448a1654d20800000000000000
+      internalID: 3262120880435432001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 259
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f397e7bef876da530800000000000000
+      internalID: 3867861522810042687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_167
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 260
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6286c0f2eb65e70800000000000000
+      internalID: 9103672806056929000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_168
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 260
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663fcb4f2c34ba030800000000000000
+      internalID: 3506971239446803302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_169
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 259
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907b987a076c93120800000000000000
+      internalID: 2394162864073586441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_170
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 257
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db78cefe762db4630800000000000000
+      internalID: 3912452045150128061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_171
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 257
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f940748f464700040800000000000000
+      internalID: 4611813995438343327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_172
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 256
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c947354bdba70ec0800000000000000
+      internalID: -3600720418811983419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_173
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 228
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a647899bb0ac2a7f0800000000000000
+      internalID: -602697248406997910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_174
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 228
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cdb3d3c12fc3ec0800000000000000
+      internalID: -3585725000193418210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_175
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 228
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3589f019eaa88e780800000000000000
+      internalID: -8653514201629747117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_176
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 228
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1cf99080f9ccaa0800000000000000
+      internalID: -6139357335142809109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_177
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 228
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc155b26e067cb60800000000000000
+      internalID: 7766282624109452475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_178
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 228
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd37c8ae17fc0040800000000000000
+      internalID: 4615335429200625109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_179
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 228
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ffecbb24e33840800000000000000
+      internalID: 5202752871047624778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_180
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 228
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ff81c5747a9f290800000000000000
+      internalID: -7856064150041460972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_181
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 228
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03027b8a2ba0c72a0800000000000000
+      internalID: -6738499180002074576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_182
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 228
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f9ea3fe48766750800000000000000
+      internalID: 6297853409415307015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_183
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 228
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b382d5cda4f585f60800000000000000
+      internalID: 8023267511289849915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_184
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 228
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e001c95f018460440800000000000000
+      internalID: 4901684482116685838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_185
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 233
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c6f288081bd14c0800000000000000
+      internalID: -4315097702352327679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_186
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 232
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24ed040f27849620800000000000000
+      internalID: 2779995505995670571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_187
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 217
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23cb5f50eb611bc0800000000000000
+      internalID: -3814148797989403860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_188
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 225
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4766a9dc7bead5280800000000000000
+      internalID: -9052887571493132684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_189
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 225
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d6262cc1f980cb0800000000000000
+      internalID: -4897489648896283276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_190
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 202
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef57b270d60dcc6e0800000000000000
+      internalID: -1815847383046851074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_191
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 202
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d8fea6e5530a6d0800000000000000
+      internalID: -2981324273681986265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_192
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 202
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5649ce08ea61644f0800000000000000
+      internalID: -844962941342280603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_193
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 202
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bfd2ec99ecc93a0800000000000000
+      internalID: -6657218989175997643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab6b4ca0ecc96050800000000000000
+      internalID: 5794387660924218275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_195
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 202
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb9ebf8270683870800000000000000
+      internalID: 8662779928401320894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_196
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 202
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c9c7df33adb1c0800000000000000
+      internalID: -4486250159192553030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_197
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 202
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d102d06eb267010800000000000000
+      internalID: 1186183818921385269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_198
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 219
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f810662efed0ea80800000000000000
+      internalID: -8439500518545417996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_199
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 209
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de52579bfa043a260800000000000000
+      internalID: 7107595760395691501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_200
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 209
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246a0ad5439e17c0800000000000000
+      internalID: -4098676682640432092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_201
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 209
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e181a1a33906100800000000000000
+      internalID: 99241069557325392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_202
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 195
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e472e68a687a1a9b0800000000000000
+      internalID: -5070587508649220274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_203
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 194
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530b11ff3e31b3790800000000000000
+      internalID: -7549418480398651339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_204
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 164
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7b6ad6f3d349a60800000000000000
+      internalID: 7679830607205414844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_205
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 164
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e05bc7f51615c10800000000000000
+      internalID: 2040519168917573166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_206
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 164
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d4afec950ca710800000000000000
+      internalID: 1705744530460168267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_207
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 164
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fa03f4fd6ccadb0800000000000000
+      internalID: -4779226442138341546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_208
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 163
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e2e984215f66040800000000000000
+      internalID: 4640665924928417374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_209
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 163
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b68f70c13a6910800000000000000
+      internalID: 1831330901322544717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_210
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 163
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02122ea5235df40c0800000000000000
+      internalID: -4589215083017395936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_211
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 163
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216a289179a16ba10800000000000000
+      internalID: 1924755127017842194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_212
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 164
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5e7cb2a090e0ec0800000000000000
+      internalID: -3598929112933603845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_213
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 164
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b782220e9eb6f60800000000000000
+      internalID: 8028767909573065551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_214
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 164
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45329cc348d99bec0800000000000000
+      internalID: -3550633639923866796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_215
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 164
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e908ec9e2509928b0800000000000000
+      internalID: -5176447610901331810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_216
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 164
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50933843a5e4c71a0800000000000000
+      internalID: -6810482387155994363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_217
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 164
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3095608530f93bca0800000000000000
+      internalID: -6002279041644209917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_218
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 155
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d224701061accb20800000000000000
+      internalID: 3156074872844853976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_219
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 156
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459409cf38c9fff50800000000000000
+      internalID: 6917419643356334420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_220
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 155
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543056006ab59b9c0800000000000000
+      internalID: -3910994032865246395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_221
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 156
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b954e13c2b557d60800000000000000
+      internalID: 7887310567783029170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_222
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 122
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f604d6dfa94a3c970800000000000000
+      internalID: 8774037484631572591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_223
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 122
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f670edf2942d7e0800000000000000
+      internalID: -1742249635901640856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_224
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 122
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e02df9906f88830800000000000000
+      internalID: 4073776384153095742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_225
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 122
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3c32f6b02ad2cd0800000000000000
+      internalID: -2581228841420471354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_226
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 122
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9925b9a98b6ed8890800000000000000
+      internalID: -7454048127686061415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_227
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 122
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f50555255656c9e0800000000000000
+      internalID: -1601497693785094663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_228
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 122
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7aec74ef9977e40800000000000000
+      internalID: 5654157174592415693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_229
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 122
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfb6b040638d0f60800000000000000
+      internalID: 8002196562333056979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_230
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 122
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b286edc454cc775d0800000000000000
+      internalID: -3064756423387879381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_231
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 122
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d7843e15ff922e0800000000000000
+      internalID: -2149906619922088621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_232
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 122
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37418ab81402996a0800000000000000
+      internalID: -6442082326088772493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_233
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 122
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0e002a3bcd2520800000000000000
+      internalID: 2679020803861645848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_234
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 122
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb39a16f52b7f9b60800000000000000
+      internalID: 7755052486328226750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_235
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 122
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e86887bd57dc30800000000000000
+      internalID: 4384075805117442487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_236
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 115
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9719d8b8a61fcf0800000000000000
+      internalID: -220277759156323890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_237
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 114
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353530009afc36ee0800000000000000
+      internalID: -1268942345231707309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_238
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 115
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5eea7831ac73bf0800000000000000
+      internalID: -344584661240977984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_239
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 86
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8b8ffe881b2f520800000000000000
+      internalID: 2734443125467035835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_240
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 86
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43935e40d229fe150800000000000000
+      internalID: 5904098358559324468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_241
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 86
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a1c5a0530a4320800000000000000
+      internalID: 2542848584517265628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_242
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 86
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b36cc074c8ac3560800000000000000
+      internalID: 7294891058092860344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_243
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 87
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f884ac24a8fe370800000000000000
+      internalID: 8354047853261786986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_244
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 87
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556655180c5510170800000000000000
+      internalID: 8142883886554506837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_245
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 87
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a0cbd8d137ff910800000000000000
+      internalID: 1873342540778572406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_246
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 87
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4f56bb96a8a0ec0800000000000000
+      internalID: -3599912765409069875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_247
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 87
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2f6b74668f6ab0800000000000000
+      internalID: -5012640094114338102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_248
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 87
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9b8d3677f7a7120800000000000000
+      internalID: 2412380701163305388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_249
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 87
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41b4586b79657210800000000000000
+      internalID: 1330085243710124364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_250
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 87
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d199bbdcea6f5230800000000000000
+      internalID: 3629737390215107027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_251
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 87
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79939bec048baf60800000000000000
+      internalID: 8046670350254315903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_252
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 81
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073207c37b3c9da40800000000000000
+      internalID: 5393557220513293168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_253
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277d4fbabc76dc560800000000000000
+      internalID: 7335633492517377906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_254
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8908293c534ff0800000000000000
+      internalID: -53097370043707663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_255
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6198a8c0f89a05ce0800000000000000
+      internalID: -1418447450765883114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_256
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d57644541adbbb0800000000000000
+      internalID: -4918597899146273387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_257
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 47
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46071f8d69f759c60800000000000000
+      internalID: 7824300213487628388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_258
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 47
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00664c4005f33e30800000000000000
+      internalID: 4482195435792261132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_259
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f6ca72891d6e470800000000000000
+      internalID: 8423650604473937751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_260
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 44
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7c0e5d720b81360800000000000000
+      internalID: 7140650894334412745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_261
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 57
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3794740eea4adf9e0800000000000000
+      internalID: -1585930422770513549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_262
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 57
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13519463f5be4630800000000000000
+      internalID: 3913265183200465692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_263
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 57
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbddaa12ab014270800000000000000
+      internalID: 8232874384670186443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9c60c4496386e10800000000000000
+      internalID: 2191061229274319318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_265
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 11
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62216e36e1c4b130800000000000000
+      internalID: 3581700798299578990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_266
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 11
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e6dfcfb6c14710800000000000000
+      internalID: 1675839063486556138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_267
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 11
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df61215379f6d670800000000000000
+      internalID: 8563306015169277905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_268
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 13
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d876edd89105950800000000000000
+      internalID: 6435671964624850228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_269
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 13
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec8a35d8c11205c0800000000000000
+      internalID: -4250815544015811356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_270
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 13
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe9dd37ed2ad6900800000000000000
+      internalID: 679378195113156284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_271
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 13
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ec830bcaf38f150800000000000000
+      internalID: 5906540922219843075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_272
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 13
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04629148f9d7b3d00800000000000000
+      internalID: 953493870188504640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_273
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 13
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933823a2e53315a0800000000000000
+      internalID: -6551833785377737840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_274
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 13
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aabb66541b59b500800000000000000
+      internalID: 412460983788485286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_275
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c156caa9ca61a130800000000000000
+      internalID: 3576256993494979010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_276
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 6
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219d5b8ec872a8290800000000000000
+      internalID: -7887448311232866030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation_-_Castlevania_Symphony_of_the_Night_-_Alucard-removebg-preview_277
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 6
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7261f9cb616a3d0800000000000000
+      internalID: -3195841886194096197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

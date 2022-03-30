@@ -1,0 +1,2628 @@
+fileFormatVersion: 2
+guid: 2acc8475df56d1e83ae26ea49ef27fed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1837123011369702822
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_0
+  - first:
+      213: 8387083234170561878
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_1
+  - first:
+      213: 2409277420866704
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_2
+  - first:
+      213: 7789058927494693611
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_3
+  - first:
+      213: -1642689298169654162
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_4
+  - first:
+      213: 7421311143767840157
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_5
+  - first:
+      213: -3171021132655541635
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_6
+  - first:
+      213: 5660251051371953289
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_7
+  - first:
+      213: 6588791803504872314
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_8
+  - first:
+      213: 7309515174349940633
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_9
+  - first:
+      213: -5995503750196760455
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_10
+  - first:
+      213: 2390805010338633301
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_11
+  - first:
+      213: 4208847461437832652
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_12
+  - first:
+      213: -4920826890689536507
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_13
+  - first:
+      213: -1223351322182312579
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_14
+  - first:
+      213: 7214194779875253292
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_15
+  - first:
+      213: 1232449215754974497
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_16
+  - first:
+      213: -1374368602580529177
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_17
+  - first:
+      213: 8661459427567469393
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_18
+  - first:
+      213: -3859232781176161909
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_19
+  - first:
+      213: 1138302671419012776
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_20
+  - first:
+      213: 9124400346268140556
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_21
+  - first:
+      213: 5984375687548607454
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_22
+  - first:
+      213: -5055691338597794367
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_23
+  - first:
+      213: -9100775143550196585
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_24
+  - first:
+      213: -6807092204645865749
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_25
+  - first:
+      213: 6981677267200805874
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_26
+  - first:
+      213: 4170012753826036245
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_27
+  - first:
+      213: -6895449825311669346
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_28
+  - first:
+      213: 327241905348160824
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_29
+  - first:
+      213: 2281777292181219428
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_30
+  - first:
+      213: -6819521894201541848
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_31
+  - first:
+      213: -877407504450627078
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_32
+  - first:
+      213: 1066641742315144065
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_33
+  - first:
+      213: -4150364877871259981
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_34
+  - first:
+      213: -2488389695799887617
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_35
+  - first:
+      213: -5064043023943140545
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_36
+  - first:
+      213: 4172330040018863865
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_37
+  - first:
+      213: -4645442127159772002
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_38
+  - first:
+      213: 1627037740522345047
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_39
+  - first:
+      213: 3642502938017804151
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_40
+  - first:
+      213: -4557783660694551484
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_41
+  - first:
+      213: 825457595292388612
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_42
+  - first:
+      213: -2471820305844694397
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_43
+  - first:
+      213: -1531244450770602582
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_44
+  - first:
+      213: 970892621075212779
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_45
+  - first:
+      213: 7910332459780574570
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_46
+  - first:
+      213: -3276367601837161945
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_47
+  - first:
+      213: 6936929698888884842
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_48
+  - first:
+      213: 7945698019631610662
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_49
+  - first:
+      213: 2803063865498866295
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_50
+  - first:
+      213: 3653503887637915638
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_51
+  - first:
+      213: 2955786755485046075
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_52
+  - first:
+      213: 2586867324387753312
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_53
+  - first:
+      213: 2974779296035603955
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_54
+  - first:
+      213: 8010855765019375552
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_55
+  - first:
+      213: -1137348386543407943
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_56
+  - first:
+      213: -112042550720482992
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_57
+  - first:
+      213: 2165946348388124308
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_58
+  - first:
+      213: 4976793767233260811
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_59
+  - first:
+      213: -1572854958783469995
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_60
+  - first:
+      213: 3495498306824705950
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_61
+  - first:
+      213: -2028489166735400651
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_62
+  - first:
+      213: 9114181947619129860
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_63
+  - first:
+      213: -8938941833583769852
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_64
+  - first:
+      213: 6338394052352979660
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_65
+  - first:
+      213: 1245168152171350177
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_66
+  - first:
+      213: 9117828266746169287
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_67
+  - first:
+      213: 1634223428838917209
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_68
+  - first:
+      213: 7768749676218615898
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_69
+  - first:
+      213: -4391853251515428851
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_70
+  - first:
+      213: 5423534451804101460
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_71
+  - first:
+      213: 4075874483618951703
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_72
+  - first:
+      213: 3344649276852063651
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_73
+  - first:
+      213: 1745748414105928507
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_74
+  - first:
+      213: -2847141121337638755
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_75
+  - first:
+      213: 414879060838183024
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_76
+  - first:
+      213: 6753819756800756294
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_77
+  - first:
+      213: -2632473421762525239
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_78
+  - first:
+      213: -6504064964834390147
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_79
+  - first:
+      213: 7800006979674675178
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_80
+  - first:
+      213: -248468496358431902
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_81
+  - first:
+      213: 98181685260738025
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_82
+  - first:
+      213: -3003027768713545986
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_83
+  - first:
+      213: 3213524522407505569
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_84
+  - first:
+      213: -205654390957849367
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_85
+  - first:
+      213: -927374593646226129
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_86
+  - first:
+      213: -4115236754487061444
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_87
+  - first:
+      213: 1216842191050492525
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_88
+  - first:
+      213: -645041902055549982
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_89
+  - first:
+      213: 5975243316399246509
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_90
+  - first:
+      213: 1800677867244142728
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_91
+  - first:
+      213: -4052843267216570219
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_92
+  - first:
+      213: -5458773186235198825
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_93
+  - first:
+      213: -1848070993599097521
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_94
+  - first:
+      213: 243835840979783943
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_95
+  - first:
+      213: -8874568795697283835
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_96
+  - first:
+      213: -3587776798692142225
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_97
+  - first:
+      213: -1032859700633081907
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_98
+  - first:
+      213: 8698101131530813368
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_99
+  - first:
+      213: 2246316465802222353
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_100
+  - first:
+      213: -8210996976468408304
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_101
+  - first:
+      213: -7438612311092462311
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_102
+  - first:
+      213: -3375988142717047456
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_103
+  - first:
+      213: -8638844273185496412
+    second: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_104
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 434
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aec9aca5a3186e0800000000000000
+      internalID: -1837123011369702822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 433
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655ee5ac3c7e46470800000000000000
+      internalID: 8387083234170561878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 368
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c06dc993f880000800000000000000
+      internalID: 2409277420866704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 368
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be208eb83db481c60800000000000000
+      internalID: 7789058927494693611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 411
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64134269cef339e0800000000000000
+      internalID: -1642689298169654162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 410
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d951eeb5a2bcdf660800000000000000
+      internalID: 7421311143767840157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_6
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 405
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d724fc4a4154ef3d0800000000000000
+      internalID: -3171021132655541635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 401
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c7e8887504d8e40800000000000000
+      internalID: 5660251051371953289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 368
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bc9e28c37107b50800000000000000
+      internalID: 6588791803504872314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 368
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a477d25d907560800000000000000
+      internalID: 7309515174349940633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 368
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ffffca11bbcca0800000000000000
+      internalID: -5995503750196760455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 368
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55655786d78dd2120800000000000000
+      internalID: 2390805010338633301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 368
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd7ecc7774d86a30800000000000000
+      internalID: 4208847461437832652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 368
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e924bb306b5bbb0800000000000000
+      internalID: -4920826890689536507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 368
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d91dd3478c50fe0800000000000000
+      internalID: -1223351322182312579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 368
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c11fa0ee7fd1460800000000000000
+      internalID: 7214194779875253292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 368
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125b8cc280a8a1110800000000000000
+      internalID: 1232449215754974497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 368
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efccb4a9034dece0800000000000000
+      internalID: -1374368602580529177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 368
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1530e90857fa33870800000000000000
+      internalID: 8661459427567469393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 368
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89b37c8b30417ac0800000000000000
+      internalID: -3859232781176161909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 368
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6fec8af301ccf00800000000000000
+      internalID: 1138302671419012776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_21
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 368
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0483c395c160ae70800000000000000
+      internalID: 9124400346268140556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 368
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb91d23bf5cc0350800000000000000
+      internalID: 5984375687548607454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 331
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdfbd4838396d9b0800000000000000
+      internalID: -5055691338597794367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_24
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 334
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7946cf3993d83b180800000000000000
+      internalID: -9100775143550196585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_25
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 337
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a0c494b95881a0800000000000000
+      internalID: -6807092204645865749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 313
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb8ce7eb76e3e060800000000000000
+      internalID: 6981677267200805874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 326
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a36a4818cded930800000000000000
+      internalID: 4170012753826036245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_28
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 328
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93c4c3eae07e40a0800000000000000
+      internalID: -6895449825311669346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_29
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 318
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d26e377c89a8400800000000000000
+      internalID: 327241905348160824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468a30d9b508aaf10800000000000000
+      internalID: 2281777292181219428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 301
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b3e16f7f03c51a0800000000000000
+      internalID: -6819521894201541848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_32
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 304
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af955fdf582d2d3f0800000000000000
+      internalID: -877407504450627078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 302
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1834c4963097dce00800000000000000
+      internalID: 1066641742315144065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 314
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bed9361221f666c0800000000000000
+      internalID: -4150364877871259981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_35
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 289
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8fa1771c6777dd0800000000000000
+      internalID: -2488389695799887617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 301
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf29e33b7e8b9b0800000000000000
+      internalID: -5064043023943140545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 317
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f60401c01817e930800000000000000
+      internalID: 4172330040018863865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 299
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cb10a7ff2188fb0800000000000000
+      internalID: -4645442127159772002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 292
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7521dff5436649610800000000000000
+      internalID: 1627037740522345047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_40
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 286
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f2ed19f15cc8230800000000000000
+      internalID: 3642502938017804151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_41
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 300
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444c835a8ef7fb0c0800000000000000
+      internalID: -4557783660694551484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_42
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 299
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0d883f4d947b00800000000000000
+      internalID: 825457595292388612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_43
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 290
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3829781378452bdd0800000000000000
+      internalID: -2471820305844694397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_44
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 288
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5b78fe84defbae0800000000000000
+      internalID: -1531244450770602582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 252
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be96c32e1bd497d00800000000000000
+      internalID: 970892621075212779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 251
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d8670267527cd60800000000000000
+      internalID: 7910332459780574570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 250
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722c5ea66010882d0800000000000000
+      internalID: -3276367601837161945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 249
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a622126cecce44060800000000000000
+      internalID: 6936929698888884842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 248
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bbaa0304ac44e60800000000000000
+      internalID: 7945698019631610662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7721bc10cbb76e620800000000000000
+      internalID: 2803063865498866295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_51
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 246
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7aa20cd6ad3b230800000000000000
+      internalID: 3653503887637915638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_52
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 245
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b359d78c460150920800000000000000
+      internalID: 2955786755485046075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 232
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d723f202666e320800000000000000
+      internalID: 2586867324387753312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_54
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 229
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f58369320a884920800000000000000
+      internalID: 2974779296035603955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_55
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 239
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7bedcffd64c2f60800000000000000
+      internalID: 8010855765019375552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 233
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc673a1ba35730f0800000000000000
+      internalID: -1137348386543407943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 226
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051b39cc4e1f17ef0800000000000000
+      internalID: -112042550720482992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 224
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4968a3a6abcfe0e10800000000000000
+      internalID: 2165946348388124308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_59
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 221
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d0158209f111540800000000000000
+      internalID: 4976793767233260811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 218
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556ef729fb81c2ae0800000000000000
+      internalID: -1572854958783469995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 199
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97144ba031828030800000000000000
+      internalID: 3495498306824705950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 201
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531220aa9db59d3e0800000000000000
+      internalID: -2028489166735400651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_63
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 215
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40abd1e31341c7e70800000000000000
+      internalID: 9114181947619129860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_64
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 212
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4074c5d43cf72f380800000000000000
+      internalID: -8938941833583769852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 202
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2b2f0fecf76f750800000000000000
+      internalID: 6338394052352979660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 188
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a88dc356d9b74110800000000000000
+      internalID: 1245168152171350177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_67
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 197
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7cb621088098e70800000000000000
+      internalID: 9117828266746169287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_68
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 204
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954809fcc8deda610800000000000000
+      internalID: 1634223428838917209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_69
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 196
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5801ff7ba420db60800000000000000
+      internalID: 7768749676218615898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_70
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 181
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0057cd9cb00d03c0800000000000000
+      internalID: -4391853251515428851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 176
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b50ea49d3444b40800000000000000
+      internalID: 5423534451804101460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_72
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 192
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712bf297f3a609830800000000000000
+      internalID: 4075874483618951703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_73
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 187
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adc80debc49a6e20800000000000000
+      internalID: 3344649276852063651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_74
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 175
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b334cf9eee42a3810800000000000000
+      internalID: 1745748414105928507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_75
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 178
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9043452c3cec78d0800000000000000
+      internalID: -2847141121337638755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_76
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 173
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070f106ce42f1c500800000000000000
+      internalID: 414879060838183024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_77
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 166
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64acf1919436abd50800000000000000
+      internalID: 6753819756800756294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_78
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 167
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7003fce53977bd0800000000000000
+      internalID: -2632473421762525239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_79
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 166
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f8bfedf5becb5a0800000000000000
+      internalID: -6504064964834390147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_80
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 168
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7931595013f3c60800000000000000
+      internalID: 7800006979674675178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_81
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 166
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2632ea018334d8cf0800000000000000
+      internalID: -248468496358431902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_82
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 168
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed5a69f8bfcc5100800000000000000
+      internalID: 98181685260738025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_83
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 162
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6f133b72a1356d0800000000000000
+      internalID: -3003027768713545986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae2b13f68bb89c20800000000000000
+      internalID: 3213524522407505569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_85
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e44578cb6e552df0800000000000000
+      internalID: -205654390957849367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_86
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 116
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f259ef378bd4123f0800000000000000
+      internalID: -927374593646226129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_87
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 116
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34da2aa9fdb3e6c0800000000000000
+      internalID: -4115236754487061444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 116
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ac541968713e010800000000000000
+      internalID: 1216842191050492525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_89
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e39cb2cec95c07f0800000000000000
+      internalID: -645041902055549982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_90
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 120
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac018853245ce250800000000000000
+      internalID: 5975243316399246509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_91
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 122
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880cef7dafa4df810800000000000000
+      internalID: 1800677867244142728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_92
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 89
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5980937758861c7c0800000000000000
+      internalID: -4052843267216570219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 90
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792160d75ba8e34b0800000000000000
+      internalID: -5458773186235198825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_94
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 113
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4592da09355a56e0800000000000000
+      internalID: -1848070993599097521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_95
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 113
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701db1dc767426300800000000000000
+      internalID: 243835840979783943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_96
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 113
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d72b523b237d480800000000000000
+      internalID: -8874568795697283835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_97
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 113
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63119ca208a53ec0800000000000000
+      internalID: -3587776798692142225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 87
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e2f8139b8aa1f0800000000000000
+      internalID: -1032859700633081907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_99
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf315505ecd5b870800000000000000
+      internalID: 8698101131530813368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_100
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 86
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b90459ce48c2f10800000000000000
+      internalID: 2246316465802222353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_101
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 30
+        width: 13
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0184bcde0cdac0e80800000000000000
+      internalID: -8210996976468408304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_102
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d7c77b38db4c890800000000000000
+      internalID: -7438612311092462311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 86
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d6b63cba41621d0800000000000000
+      internalID: -3375988142717047456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Castlevania Symphony of the Night - Bone Scimitar_104
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 30
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a26cd277e8ac1880800000000000000
+      internalID: -8638844273185496412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
