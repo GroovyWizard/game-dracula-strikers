@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 3359037761093701103}
   - component: {fileID: 3359037761093701096}
-  - component: {fileID: 3359037761093701097}
   - component: {fileID: 3359037761093701098}
   - component: {fileID: 3359037761093701102}
+  - component: {fileID: 2924126806539071486}
   m_Layer: 0
   m_Name: Alucard
   m_TagString: Player
@@ -74,36 +74,17 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -3978338337762068776, guid: 5388f360399c24aeabb03ee045f6a9b1, type: 3}
+  m_Sprite: {fileID: 1982138039336943462, guid: aa7138cd7822c2f68a9614978fba9f07, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.15, y: 0.29}
+  m_Size: {x: 0.09, y: 0.23}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &3359037761093701097
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3359037761093701099}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 9be1ca905caf64157b0f937827e9b829, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &3359037761093701098
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117,6 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shot: {fileID: 5355939991886872281, guid: c589975223e46dd80b844d0fa3b8001f, type: 3}
+  jump: {fileID: 0}
 --- !u!50 &3359037761093701102
 Rigidbody2D:
   serializedVersion: 4
@@ -138,3 +120,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!95 &2924126806539071486
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3359037761093701099}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 33259b3e831ec72eeb290b1637da453a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
